@@ -2,6 +2,8 @@
 # SDCND : Sensor Fusion and Tracking
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+This repository has been cloned from the UDACITY project. The code has been developed on the framework provided by the udacity.
+
 # Overview
 
 Detect objects in Lidar point-cloud data from the Waymo Open Dataset. 
